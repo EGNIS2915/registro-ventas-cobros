@@ -1,6 +1,6 @@
-# Evidencias — Registro de cobros (Egnis)
+# Evidencias — Registro de cobros (Egnis Piliado Montaño)
 
-Programa: `PENDIENTE` · Repo: `https://github.com/EGNIS2915/registro-ventas-cobros` · Red: **Devnet**
+Programa: `PENDIENTE` · Repo: `https://github.com/EGNIS2915/registro-ventas-cobros` · Red: **Devnet** · Participante: `Egnis Piliado Montaño`
 
 Cada firma se verifica en `https://explorer.solana.com/tx/<FIRMA>?cluster=devnet`.
 Sustituir `[PENDIENTE]` por la firma real antes de entregar. No capturar claves privadas.

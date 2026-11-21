@@ -1,7 +1,8 @@
-# Registro de cobros — Egnis
+# Registro de cobros — Egnis Piliado Montaño
 
 Proyecto del **Solana Engineering Track: Advanced** (WayLearn). Registro de clientes y ventas con PDAs en Devnet, frontend React/Vite y cliente TypeScript generado por Codama desde el IDL.
 
+- **Participante para el certificado:** `Egnis Piliado Montaño`
 - **Repo:** `https://github.com/EGNIS2915/registro-ventas-cobros`
 - **Negocio usado en la app:** `Cafe Cobros Egnis`
 - **Program ID:** `PENDIENTE` (se obtiene al hacer Deploy en Solana Playground)
