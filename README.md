@@ -2,7 +2,8 @@
 
 Proyecto del **Solana Engineering Track: Advanced** (WayLearn). Registro de clientes y ventas con PDAs en Devnet, frontend React/Vite y cliente TypeScript generado por Codama desde el IDL.
 
-- **Participante para el certificado:** `Egnis Piliado Montaño`
+- **Participante para el certificado:** `Egnis Piliado Montaño` · `piliadoegnis@gmail.com`
+- **Ruta elegida:** proyecto guiado con una mejora funcional
 - **Repo:** `https://github.com/EGNIS2915/registro-ventas-cobros`
 - **Negocio usado en la app:** `Cafe Cobros Egnis`
 - **Program ID:** `8H93sPVcos2HiwEHq1Ja5BcFyEQRydbjKCx9jmckyQtV` (Devnet)
