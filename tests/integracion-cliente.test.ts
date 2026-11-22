@@ -122,7 +122,8 @@ test('la mejora de cobros serializa marcarPagada y conserva el contrato base', (
     accounts: { name: string; type: { fields: { name: string }[] } }[];
   };
   const campos = (nombre: string) => contrato.accounts.find((cuenta) => cuenta.name === nombre)!.type.fields.map((campo) => campo.name);
-  assert.equal(validarIdl(idl).programId, REFERENCIA_ID);
+  assert.equal(validarIdl(idl).programId, idl.metadata.address);
+  assert.notEqual(validarIdl(idl).programId, REFERENCIA_ID);
   assert.ok(contrato.instructions.some((instruccion) => instruccion.name === 'marcarPagada'));
   assert.ok(campos('Cliente').includes('ventasPagadas'));
   assert.ok(campos('Venta').includes('pagada'));
